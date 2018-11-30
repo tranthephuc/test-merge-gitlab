@@ -5,5 +5,6 @@ public class Hello {
 		System.out.println("This is an origional project!");
 		
 		System.out.println("We are FPT team");
+		System.out.println("Bla bla bla!");
 	}
 }

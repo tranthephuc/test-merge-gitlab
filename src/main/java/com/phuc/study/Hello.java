@@ -6,5 +6,9 @@ public class Hello {
 		
 		System.out.println("We are FPT team");
 		System.out.println("Bla bla bla!");
+
+		System.out.println("Master is 1");
+		System.out.println("Master is 2");
+		System.out.println("Master is 3");
 	}
 }
